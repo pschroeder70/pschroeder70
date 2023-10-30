@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pete, a front-end developer (html/css/js)
+- 👋 Hi, I’m Pete
 - 💞️ This is my sandbox, partial projects, things in the works, playing with new stuff...
 - 👀 I’m interested in home automation, networking (linux/windows/pi) & movie collecting (4k, bluray)
 - 🌱 I’m currently learning network/server stuff, Home Assistant (painful)
